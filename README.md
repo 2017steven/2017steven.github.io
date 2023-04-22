@@ -1,1 +1,1 @@
-# 2017steven.github.io
+Hello, my name is Steven Nguyen and I am a first year student at Pasadena City College studying Computer Science! This is my first experience using github as well as my first introduction to web development! 
