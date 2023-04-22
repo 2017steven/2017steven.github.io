@@ -1,1 +1,1 @@
-Hello, my name is Steven Nguyen and I am a first year student at Pasadena City College studying Computer Science! This is my first experience using github as well as my first introduction to web development! 
+Hello, my name is Steven Nguyen and I am a first year student at Pasadena City College studying Computer Science! This is my first experience using github as well as my first introduction to web development! I am eager to learn and have been using resources such as Youtube and W3Schools in order to learn HTML and CSS in order to create a project for this internship!
